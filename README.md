@@ -24,7 +24,11 @@ MVC 1편(3)(김영한)
 * 상품 등록
 * 상품 수정
 
+## 서비스 구성도
+<img alt="서비스 구성도.png" src="서비스 구성도.png"/>
+
 ## 서비스 화면
+
 ### 상품 목록
 <img alt="상품 목록.png" src="상품 목록.png"/>
 
@@ -37,5 +41,5 @@ MVC 1편(3)(김영한)
 ### 상품 수정 폼
 <img alt="상품 수정 폼.png" src="상품 수정 폼.png"/>
 
-## 서비스 구성도
-<img alt="서비스 구성도.png" src="서비스 구성도.png"/>
+## 서비스 확장
+<a href="https://github.com/ssosee/item-serviceV2/tree/master">링크</a>
