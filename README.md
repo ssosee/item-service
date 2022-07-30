@@ -6,7 +6,7 @@ MVC 1편(3)(김영한)
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
-</div><br>
+</div><br>ㅇㅇㅇ
 
 # 요구사항 분석
 상품을 관리할 수 있는 서비스를 만들어보자.
@@ -41,4 +41,4 @@ MVC 1편(3)(김영한)
 <img alt="상품 수정 폼.png" src="상품 수정 폼.png"/>
 
 ## 서비스 확장
-<a href="https://github.com/ssosee/item-serviceV2/tree/master">링크</a>
+<a href="https://github.com/ssosee/item-serviceV2">링크</a>
